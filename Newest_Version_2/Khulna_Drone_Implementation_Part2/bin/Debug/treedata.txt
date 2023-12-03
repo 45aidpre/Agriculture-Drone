@@ -1,0 +1,8 @@
+0,Just a root, 33936, Root,44,10000
+1,Barn, 24936, Root,1,5000
+2,Live-stock area, 15936, N/A,1,2000
+3,Cow, 15000, N/A,50,3125
+2,Milk Storage, 9000, N/A,1,2000
+1,Command-center, 4000, N/A,1,3000
+2,Drone, 4000, N/A,1,3000
+1,Crops, 5000, N/A,1,2000
